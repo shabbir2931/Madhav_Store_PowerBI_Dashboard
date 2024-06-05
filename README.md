@@ -33,17 +33,4 @@ To get started with the Madhav Store Power BI Dashboard, follow these steps:
 4. **Customize Dashboard**: Customize the dashboard to suit your specific business requirements, adding additional visualizations or modifying existing ones as needed.
 5. **Share and Collaborate**: Share the dashboard with relevant stakeholders and collaborate on insights and action plans.
 
-## Feedback and Support
-
-We welcome your feedback on the Madhav Store Power BI Dashboard! If you have any questions, suggestions, or encounter any issues, please feel free to [open an issue](link_to_repository_issues) on GitHub or contact us directly.
-
-## Contributors
-
-- [Your Name](link_to_your_profile) - Project Lead
-- [Contributor 1](link_to_contributor_profile)
-- [Contributor 2](link_to_contributor_profile)
-
-## License
-
-This project is licensed under the [MIT License](link_to_license_file).
 
